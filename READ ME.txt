@@ -1,0 +1,16 @@
+1 - MUST HAVE INTALLED:
+- node.js
+- mongodb
+
+2 - You have to install some libraries from node.js
+
+Libraries I used:
+- express
+- ejs
+- method-override
+- moment
+- slugify
+- mongoose
+
+3 - dev dependency to have installed:
+- nodemon
